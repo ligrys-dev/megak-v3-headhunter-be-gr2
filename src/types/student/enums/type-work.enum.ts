@@ -1,0 +1,7 @@
+export enum TypeWork {
+  AT_LOCATION,
+  READINESS_TO_MOVE,
+  REMOTE_ONLY,
+  HYBRID,
+  DOES_NOT_MATTER,
+}
